@@ -2,9 +2,11 @@
 # Hey there, Chester Johnson here, nice to meet you 👋 
 
 
-### I'm a photographer, Game Developer, Father, and Teacher!!
+### I'm a photographer, Game Developer, App Developer, and Teacher!!
 I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is sloving problems via coding.
-name a language, give me a few day and i'll learn
+name a language, give me a few day and i'll learn.
+one of my most ambitious hobby is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic contents
+Whether it's and app, a game, interactive CLI, or interavtive videos, i'm passionate and absolutely in-love with the whole process 
 
 - 🔭 I’m currently working on mastering app Development 
 - 🌱 I’m currently learning nodejs and asp.net
