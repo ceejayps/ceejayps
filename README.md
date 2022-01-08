@@ -3,7 +3,7 @@
 
 
 
-### I'm a photographer, Game Developer, App Developer, and Teacher!!
+### I'm a photographer, Game Developer, App Developer, and a Teacher!!
 I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is sloving problems via coding.
 name a language, give me a few day and i'll learn.
 one of my most ambitious hobby is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic contents
