@@ -1,6 +1,12 @@
 
 # Hi there, I'm Chester Johnson - 👋 
+
+
 #### I'm a photographer, Game Developer, Father, and Teacher!!
+
+#### I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is sloving problems via coding.
+
+#### name a language, give me a few day and i'll learn
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
