@@ -35,5 +35,5 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
    <!--img src="https://github-readme-stats.vercel.app/api?username=ceejayps" /-->
  
  ## Contacts
-<a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-00000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/🌐  ceejayps.com-000000?style=for-the-badge&logo=Globe&logoColor=blue" />](http://proxstudioja.com/)
