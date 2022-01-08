@@ -32,7 +32,7 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
  
  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceejayps" /-->
   <!--img src="https://activity-graph.herokuapp.com/graph?username=ceejayps&theme=minimal" /-->
-   <img src="https://github-readme-stats.vercel.app/api?username={username}" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ceejayps" />
  
  ## Contacts
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
