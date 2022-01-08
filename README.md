@@ -1,5 +1,6 @@
 
-# Hey there, Chester Johnson here, nice to meet you 👋 
+# Hey there, Chester Johnson here, nice to meet you <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">
+
 
 
 ### I'm a photographer, Game Developer, App Developer, and Teacher!!
