@@ -13,7 +13,7 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
 - 🌱 currently learning raw nodejs and asp.net.
 <!-- 👯 I’m looking to collaborate on a lot of apps and game projects.
 - 🤔 I’m looking for help with making food later, nah am kidding, looking forward to eating it.-->
-- 💬 Ask me about how i express myself when i'm proud of a software i'm making or have made.
+- 💬 Ask me about how life in jamaica as a programmer.
 - 🥅 2022 Goals: Contribute more to Open Source projects and create my own
 
 
