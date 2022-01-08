@@ -20,7 +20,7 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
 
 
 
-
+<!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
