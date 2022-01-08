@@ -1,5 +1,5 @@
 
-# Hi there, I'm Chester Johnson - <p>ceejayps</p> 👋 
+# Hi there, I'm Chester Johnson - 👋 
 #### I'm a photographer, Game Developer, Father, and Teacher!!
 
 - 🔭 I’m currently working on ...
