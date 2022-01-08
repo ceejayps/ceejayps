@@ -17,7 +17,7 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
 - 🥅 2022 Goals: Contribute more to Open Source projects and create my own
 
 
-### Languages and Tools:
+## Languages and Tools:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -30,6 +30,6 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
  
  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceejayps" /-->
  
- ### Contacts
+ ## Contacts
 <a href="https://www.linkedin.com/in/chester-johnson-23030b1ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](http://proxstudioja.com/)
