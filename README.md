@@ -8,11 +8,12 @@ name a language, give me a few day and i'll learn.
 one of my most ambitious hobby is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic contents
 Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passionate and absolutely in-love with the whole process!
 
-- 🔭 I’m currently working on mastering app Development 
-- 🌱 I’m currently learning nodejs and asp.net
-- 👯 I’m looking to collaborate on a lot of apps and game projects 
+- 🔭 I’m currently working on mastering app Development.
+- 🌱 I’m currently learning nodejs and asp.net.
+- 👯 I’m looking to collaborate on a lot of apps and game projects.
 - 🤔 I’m looking for help with making food later, nah am kidding, looking forward to eating it.
-- 💬 Ask me about ...
+- 💬 Ask me about how i express myself when i'm proud of a software i'm making or have made.
+- - 🥅 2022 Goals: Contribute more to Open Source projects and create my own
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
