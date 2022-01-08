@@ -1,5 +1,5 @@
 
-# Hey there, I'm Chester, you can call me Ceejay. Nice to meet you <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">
+# Heyyo, I'm Chester, you can call me Ceejay. Nice to meet you <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">
 
 
 
