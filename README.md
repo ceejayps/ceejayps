@@ -41,4 +41,4 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceejayps" /-->
  
  ### Contacts
-<a href="https://www.qries.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chester-johnson-23030b1ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
