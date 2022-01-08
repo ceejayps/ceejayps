@@ -1,21 +1,19 @@
 
-# Hi there, I'm Chester Johnson - 👋 
+# Hey there, Chester Johnson here, nice to meet you 👋 
 
 
-#### I'm a photographer, Game Developer, Father, and Teacher!!
+### I'm a photographer, Game Developer, Father, and Teacher!!
+I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is sloving problems via coding.
+name a language, give me a few day and i'll learn
 
-#### I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is sloving problems via coding.
-
-#### name a language, give me a few day and i'll learn
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on mastering app Development 
+- 🌱 I’m currently learning nodejs and asp.net
+- 👯 I’m looking to collaborate on a lot of apps and game projects 
+- 🤔 I’m looking for help with making food later, nah am kidding, looking forward to eating it.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+<!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <!--
