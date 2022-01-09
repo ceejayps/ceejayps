@@ -1,9 +1,9 @@
 
-# Heyyo, I'm Chester, you can call me Ceejay. Nice to meet you <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">
+# Heyyo, I'm Chester, call me Ceejay. Nice to meet you <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">
 
 
 
-### I'm a photographer, Game Developer, App Developer, and a Teacher!!
+#### I'm a photographer, Game Developer, App Developer, and a Teacher!!
 I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is solving problems via coding.
 name a language, give me a few days and i'll learn it.
 one of my most ambitious hobby is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic contents
