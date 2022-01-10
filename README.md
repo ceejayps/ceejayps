@@ -34,6 +34,6 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
   <!--img src="https://activity-graph.herokuapp.com/graph?username=ceejayps&theme=minimal" /-->
    <!--img src="https://github-readme-stats.vercel.app/api?username=ceejayps" /-->
  
- ## You can get to me with...
+ ## You can get to me...
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/🌐  ceejayps.com-000000?style=for-the-badge&logo=Globe&logoColor=blue" />](http://proxstudioja.com/)
