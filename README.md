@@ -33,7 +33,6 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceejayps" /-->
   <!--img src="https://activity-graph.herokuapp.com/graph?username=ceejayps&theme=minimal" /-->
    <!--img src="https://github-readme-stats.vercel.app/api?username=ceejayps" /-->
- ![Lotus-Sex-Position-Illustration](https://user-images.githubusercontent.com/59537158/148930210-b464712c-703a-48ba-b535-d86a3da8a525.jpeg)
 
  ## how to reach me...
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
