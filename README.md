@@ -40,4 +40,4 @@ Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passio
 </br>
 </br>
 </br>
-Thanks for reading, see you soon
+###### Thanks for reading, see you soon
