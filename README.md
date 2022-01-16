@@ -4,8 +4,8 @@
 
 
 #### I'm a photographer, Game Developer, App Developer, and a Teacher!!
-I'm just a regular Developer who codes for fun, nothing really to it. i find enjoyment is solving problems via coding.
-name a language, give me a few days and i'll learn it.
+I'm just a regular Developer who codes for fun, nothing really to it. I find enjoyment is solving problems via coding.
+name a language, give me a few days and I'll learn it.
 one of my most ambitious hobby is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic contents
 Whether it's and app, a game, interactive CLI, or interavtive videos. I'm passionate and absolutely in-love with the whole hands on process!
 
