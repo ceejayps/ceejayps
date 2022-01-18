@@ -37,4 +37,4 @@ I'm just a regular Developer who codes for fun, nothing really to it. I find enj
 </br>
 </br>
 </br>
-##### Thanks for reading, see you soon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
+##### Thank you for reading, see you soon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
