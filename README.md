@@ -29,7 +29,7 @@ I'm just a regular Developer who codes for fun, nothing really to it. I find enj
  
  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceejayps" /-->
   <!--img src="https://activity-graph.herokuapp.com/graph?username=ceejayps&theme=minimal" /-->
-   <!--img src="https://github-readme-stats.vercel.app/api?username=ceejayps" /-->
+   <!--img  src="https://github-readme-stats.vercel.app/api?username=ceejayps" /-->
 
  ## how to reach me...
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
