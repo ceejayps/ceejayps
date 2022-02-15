@@ -35,7 +35,5 @@ I'm just a regular Developer who codes for fun, nothing really to it. I find enj
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/🌐  ceejayps.com-000000?style=for-the-badge&logo=Globe&logoColor=blue" />](http://proxstudioja.com/)
 </br>
-</br>
-</br>
-</br>
+
 ##### Thank you for reading, see you soon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
