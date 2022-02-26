@@ -4,7 +4,7 @@
 
 
 #### I'm a photographer, Game Developer, App Developer, and a Teacher!!
-I'm just a regular Developer who codes for fun, nothing really to it. I find enjoyment in solving problems via coding. name a language, give me a few days and I'll learn it. one of my most ambitious hobbies is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic content Whether it's an app, a game, interactive CLI, or interactive videos. I'm passionate and absolutely in love with the whole hands-on process!
+I'm just a regular Developer who codes for fun, nothing really to it. I find enjoyment in solving problems. name a language, give me a few days and I'll learn it. one of my most ambitious hobbies is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic content Whether it's an app, a game, interactive CLI, or interactive videos. I'm passionate and absolutely in love with the whole hands-on process!
 
 - 🔭 I’m currently working on mastering app Development.
 - 🌱 currently learning raw nodejs and asp.net.
