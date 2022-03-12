@@ -25,7 +25,7 @@ I'm just a regular Developer who codes for fun, nothing really to it. I find enj
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceejayps&show_icons=true&locale=en&layout=compact" alt="ceejayps" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejayps&show_icons=true&locale=en" alt="ceejayps" /></p>
+<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejayps&show_icons=true&locale=en" alt="ceejayps" /></p-->
 
  ## how to reach me...
 <a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
