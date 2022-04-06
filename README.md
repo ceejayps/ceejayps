@@ -32,4 +32,4 @@ I'm just a regular Developer who codes for fun, nothing really to it. I find enj
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/🌐  ceejayps.com-000000?style=for-the-badge&logo=Globe&logoColor=blue" />](http://proxstudioja.com/)
 </br>
 
-##### Thank you for reading, see you soon <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='24px'>
+##### Thank you for reading, see you soon <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height='24'>
