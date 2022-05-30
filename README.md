@@ -4,7 +4,20 @@
 
 
 #### I'm a photographer, Game Developer, App Developer, and a Teacher!!
-I'm just a regular Developer who codes for fun, nothing really to it. I find enjoyment in solving problems. name a language, give me a few days and I'll learn it. one of my most ambitious hobbies is making people's software dreams a reality. I really enjoy the process of making interactive and dynamic content Whether it's an app, a game, interactive CLI, or interactive videos. I'm passionate and absolutely in love with the whole hands-on process!
+I'm a full-stack mobile software designer, engineer, and game developer based in Jamaica.
+Though I prefer backend development.
+I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in software Development
+
+- Worked with a casino to develop a fast pace game which was implemented into their online catalog
+- Developed, and managed servers and databases for 3 organizations with over 8000 users.
+- Developed an app for the government of my country that is used to manage and organize payments for farmers.
+- Created a game that was #1 trending in Playstore in my country for a year, with over 50,000 downloads.
+- Number 1 GitHub contributor from Jamaica in 2022.
+- 6 years of CSharp and Unity3D.
+- 6 Years of Html, CSS, and JavaScript.
+- 3  years of PHP and MySQL
+- 4 Years of flutter and dart.
+- 4 Years of node.Js.
 
 <!-- 🔭 I’m currently working on mastering app Development.
 
