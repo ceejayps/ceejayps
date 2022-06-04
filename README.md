@@ -1,5 +1,5 @@
 
-# Heyyo,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">  I'm Chester,   call me Ceejay.  Nice to meet you 
+# Heyyo,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px" height='60px'>  I'm Chester,   call me Ceejay.  Nice to meet you 
 
 
 
@@ -9,15 +9,15 @@ Though I prefer backend development.
 I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in software Development
 
 - Worked with a casino to develop a fast pace game which was implemented into their online catalog <br>
-- Developed, and managed servers and databases for 3 organizations with over 8000 users.
-- Developed an app for the government of my country that is used to manage and organize payments for farmers.
-- Created a game that was #1 trending in Playstore in my country for a year, with over 50,000 downloads.
-- Number 1 GitHub contributor from Jamaica in 2022.
-- 6 years of CSharp and Unity3D.
-- 6 Years of Html, CSS, and JavaScript.
-- 3  years of PHP and MySQL
-- 4 Years of flutter and dart.
-- 4 Years of node.Js.
+- Developed, and managed servers and databases for 3 organizations with over 8000 users.<br><br>
+- Developed an app for the government of my country that is used to manage and organize payments for farmers.<br>
+- Created a game that was #1 trending in Playstore in my country for a year, with over 50,000 downloads.<br>
+- Number 1 GitHub contributor from Jamaica in 2022.<br>
+- 6 years of CSharp and Unity3D.<br>
+- 6 Years of Html, CSS, and JavaScript.<br>
+- 3  years of PHP and MySQL<br>
+- 4 Years of flutter and dart.<br>
+- 4 Years of node.Js.<br>
 
 <!-- 🔭 I’m currently working on mastering app Development.
 
