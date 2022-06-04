@@ -8,7 +8,7 @@ I'm a full-stack mobile software designer, engineer, and game developer based in
 Though I prefer backend development.
 I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in software Development
 
-- Worked with a casino to develop a fast pace game which was implemented into their online catalog
+- Worked with a casino to develop a fast pace game which was implemented into their online catalog <br>
 - Developed, and managed servers and databases for 3 organizations with over 8000 users.
 - Developed an app for the government of my country that is used to manage and organize payments for farmers.
 - Created a game that was #1 trending in Playstore in my country for a year, with over 50,000 downloads.
