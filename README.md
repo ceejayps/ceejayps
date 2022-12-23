@@ -3,7 +3,7 @@
 
 
 
-#### I'm a photographer, Game Developer, App Developer, and a Teacher!!
+#### I'm a photographer, Game Developer, web, backend and App Developer, oh and a Teacher!!
 I'm a full-stack mobile software designer, engineer, and game developer based in Jamaica.
 Though I prefer backend development.
 I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in software Development
