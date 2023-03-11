@@ -15,7 +15,7 @@ I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and 
 - Number 1 GitHub contributor from Jamaica in 2022.<br>
 - 6 years of CSharp and Unity3D.<br>
 - 6 Years of Html, CSS, and JavaScript.<br>
-- 3  years of PHP and MySQL<br>
+- 4 years react.js.<br>
 - 4 Years of flutter and dart.<br>
 - 4 Years of node.Js.<br>
 
