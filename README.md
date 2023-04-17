@@ -33,7 +33,7 @@ I base my work around Flutter, firebase, nodeJs, MongoDB, Docker, Postgres, and 
 <p align="left">
 </p>
 
----
+<!---
 
 ### 📊 Stats
 
