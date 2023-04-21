@@ -29,7 +29,7 @@ I base my work around React, Flutter, Firebase, NodeJs, MongoDB, Docker, Postgre
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceejayps2&label=Profile%20views&color=0e75b6&style=flat" alt="ceejayps" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceejayps&label=Profile%20views&color=0e75b6&style=flat" alt="ceejayps" /> </p>
 <p align="left">
 </p>
 
