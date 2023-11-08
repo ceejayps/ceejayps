@@ -6,25 +6,25 @@
 #### I'm a photographer, Game Developer, web, backend and App Developer, oh and a Teacher!!
 I'm a full-stack mobile software designer, engineer, and game developer based in Jamaica.
 Though I prefer backend development.
-I base my work around React, Flutter, Firebase, NodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in software Development
+I base my work around React, Flutter, Firebase, NodeJs, MongoDB, Docker, Postgres, and Unity3D with over 6 years of experience in Software Development
 
-- Worked with a casino to develop a fast pace game which was implemented into their online catalog <br>
+- Worked with a casino to develop a fast-paced game which was implemented into their online catalog <br>
 - Developed, and managed servers and databases for 3 organizations with over 8000 users.<br><br>
 - Developed an app for the government of my country that is used to manage and organize payments for farmers.<br>
 - Created a game that was #1 trending in Playstore in my country for a year, with over 50,000 downloads.<br>
 - Number 1 GitHub contributor from Jamaica in 2022.<br>
 - 6 years of CSharp and Unity3D.<br>
-- 6 Years of Html, CSS, and JavaScript.<br>
-- 4 years react.js.<br>
-- 4 Years of flutter and dart.<br>
-- 4 Years of node.Js.<br>
+- 6 years of HTML, CSS, and JavaScript.<br>
+- 5 years react.js.<br>
+- 5 Years of flutter and dart.<br>
+- 5 Years of node.Js.<br>
 
 <!-- 🔭 I’m currently working on mastering app Development.
 
 - 🌱 currently learning raw nodejs and asp.net.
 - 👯 I’m looking to collaborate on a lot of apps and game projects.
 - 🤔 I’m looking for help with making food later, nah am kidding, looking forward to eating it.
-- 💬 Ask me about how life in jamaica as a programmer.
+- 💬 Ask me about life in Jamaica as a programmer.
 - 🥅 2022 Goals: Contribute more to Open Source projects and create my own-->
 
 
